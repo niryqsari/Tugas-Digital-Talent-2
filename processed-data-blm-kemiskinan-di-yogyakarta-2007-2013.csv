@@ -1,0 +1,283 @@
+kode_provinsi,nama_provinsi,kode_kabkota,nama_kabkota,kecamatan,tahun,program,jumlah_penduduk,jumlah_penduduk_miskin,kategori,blm_apbn,blm_apbd
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Kalibawang",2012,"PNPM Perdesaan",26815,6592,"Sedang",2850,150
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Lendah",2008,"PNPM Perdesaan",36605,10525,"Miskin",350,1400
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Lendah",2010,"PNPM Perdesaan",36605,10525,"Miskin",1000,250
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Lendah",2011,"PNPM Perdesaan",36605,10525,"Miskin",360,90
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Nanggulan",2008,"PNPM Perdesaan",27495,7320,"Miskin",350,1400
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Nanggulan",2009,"PNPM Perdesaan",27495,7320,"Miskin",1600,400
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Nanggulan",2010,"PNPM Perdesaan",27495,7320,"Miskin",1200,300
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Nanggulan",2012,"PNPM Perdesaan",27495,7320,"Miskin",855,45
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Panjatan",2009,"PNPM Perdesaan",33616,9018,"Miskin",1600,400
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Panjatan",2011,"PNPM Perdesaan",33616,9018,"Miskin",360,90
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Panjatan",2012,"PNPM Perdesaan",33616,9018,"Miskin",665,35
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Pengasih",2008,"PNPM Perdesaan",45497,11415,"Miskin",350,1400
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Samigaluh",2012,"PNPM Perdesaan",24823,5443,"Sedang",2850,150
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Sentolo",2011,"PNPM Perdesaan",44830,12890,"Miskin",480,120
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Sentolo",2012,"PNPM Perdesaan",44830,12890,"Miskin",997.5,52.5
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Temon",2008,"PNPM Perdesaan",24629,4236,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Temon",2009,"PNPM Perdesaan",24629,4236,"Sedang",200,
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Temon",2010,"PNPM Perdesaan",24629,4236,"Sedang",800,200
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Temon",2011,"PNPM Perdesaan",24629,4236,"Sedang",360,90
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Temon",2012,"PNPM Perdesaan",24629,4236,"Sedang",570,30
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2007,"PNPM Perkotaan",44245,7050,"Sedang",900,
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2008,"PNPM Perkotaan",44245,7050,"Sedang",720,
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2009,"PNPM Perkotaan",44245,7050,"Sedang",1128,282
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2010,"PNPM Perkotaan",44245,7050,"Sedang",1520,300
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2011,"PNPM Perkotaan",44245,7050,"Sedang",1010,180
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2012,"PNPM Perkotaan",44245,7050,"Sedang",1539,81
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo","Wates",2013,"PNPM Perkotaan",44245,7050,"Sedang",1211.25,63.75
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bambang Lipuro",2008,"PNPM Perkotaan",37572,8282,"Sedang",735,315
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bambang Lipuro",2009,"PNPM Perkotaan",37572,8282,"Sedang",744,186
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bambang Lipuro",2010,"PNPM Perkotaan",37572,8282,"Sedang",760,180
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2008,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1295,555
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2009,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1220,305
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2010,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1470,350
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2011,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1165,260
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2012,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1235,65
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Banguntapan",2013,"PNPM Perkotaan",120547,9875,"Tidak Miskin",1472.5,77.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2008,"PNPM Perkotaan",59604,6344,"Tidak Miskin",1015,435
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2009,"PNPM Perkotaan",59604,6344,"Tidak Miskin",1096,274
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2010,"PNPM Perkotaan",59604,6344,"Tidak Miskin",940,220
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2011,"PNPM Perkotaan",59604,6344,"Tidak Miskin",760,140
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2012,"PNPM Perkotaan",59604,6344,"Tidak Miskin",855,45
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Bantul",2013,"PNPM Perkotaan",59604,6344,"Tidak Miskin",1116.25,58.75
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Dlingo",2008,"PNPM Perdesaan",35628,10465,"Miskin",200,800
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Dlingo",2009,"PNPM Perdesaan",35628,10465,"Miskin",1600,400
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Dlingo",2010,"PNPM Perdesaan",35628,10465,"Miskin",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Dlingo",2011,"PNPM Perdesaan",35628,10465,"Miskin",360,90
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Dlingo",2012,"PNPM Perdesaan",35628,10465,"Miskin",570,30
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Imogiri",2009,"PNPM Perdesaan",57039,11560,"Sedang",2400,600
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Imogiri",2010,"PNPM Perdesaan",57039,11560,"Sedang",1000,250
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Imogiri",2011,"PNPM Perdesaan",57039,11560,"Sedang",360,90
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Imogiri",2012,"PNPM Perdesaan",57039,11560,"Sedang",665,35
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Jetis",2009,"PNPM Perkotaan",52349,8675,"Sedang",1036,259
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Jetis",2010,"PNPM Perkotaan",52349,8675,"Sedang",720,180
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Jetis",2011,"PNPM Perkotaan",52349,8675,"Sedang",815,160
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Jetis",2012,"PNPM Perkotaan",52349,8675,"Sedang",665,35
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Jetis",2013,"PNPM Perkotaan",52349,8675,"Sedang",1330,70
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2008,"PNPM Perkotaan",111470,11261,"Tidak Miskin",980,420
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2009,"PNPM Perkotaan",111470,11261,"Tidak Miskin",1024,256
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2010,"PNPM Perkotaan",111470,11261,"Tidak Miskin",840,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2011,"PNPM Perkotaan",111470,11261,"Tidak Miskin",760,140
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2012,"PNPM Perkotaan",111470,11261,"Tidak Miskin",665,35
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kasihan",2013,"PNPM Perkotaan",111470,11261,"Tidak Miskin",855,45
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kretek",2008,"PNPM Perdesaan",29360,4082,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kretek",2009,"PNPM Perdesaan",29360,4082,"Sedang",720,180
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kretek",2010,"PNPM Perdesaan",29360,4082,"Sedang",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Kretek",2012,"PNPM Perdesaan",29360,4082,"Sedang",570,30
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pajangan",2008,"PNPM Perdesaan",33112,12063,"Miskin",200,800
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pajangan",2009,"PNPM Perdesaan",33112,12063,"Miskin",1600,400
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pajangan",2010,"PNPM Perdesaan",33112,12063,"Miskin",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pajangan",2011,"PNPM Perdesaan",33112,12063,"Miskin",360,90
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pandak",2009,"PNPM Perkotaan",47694,13470,"Miskin",748,187
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pandak",2010,"PNPM Perkotaan",47694,13470,"Miskin",880,190
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pandak",2011,"PNPM Perkotaan",47694,13470,"Miskin",315,60
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pandak",2013,"PNPM Perkotaan",47694,13470,"Miskin",1330,70
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Piyungan",2008,"PNPM Perdesaan",49324,7883,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Piyungan",2009,"PNPM Perdesaan",49324,7883,"Sedang",1600,400
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Piyungan",2010,"PNPM Perdesaan",49324,7883,"Sedang",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Piyungan",2012,"PNPM Perdesaan",49324,7883,"Sedang",570,30
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pleret",2008,"PNPM Perkotaan",43407,7793,"Sedang",700,300
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pleret",2009,"PNPM Perkotaan",43407,7793,"Sedang",592,148
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pleret",2010,"PNPM Perkotaan",43407,7793,"Sedang",620,140
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pleret",2011,"PNPM Perkotaan",43407,7793,"Sedang",520,80
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pleret",2013,"PNPM Perkotaan",43407,7793,"Sedang",1235,65
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2008,"PNPM Perkotaan",31772,7235,"Sedang",630,270
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2009,"PNPM Perkotaan",31772,7235,"Sedang",576,144
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2010,"PNPM Perkotaan",31772,7235,"Sedang",760,180
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2011,"PNPM Perkotaan",31772,7235,"Sedang",680,120
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2012,"PNPM Perkotaan",31772,7235,"Sedang",712.5,37.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Pundong",2013,"PNPM Perkotaan",31772,7235,"Sedang",855,45
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sanden",2009,"PNPM Perkotaan",30155,5784,"Sedang",432,108
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sanden",2010,"PNPM Perkotaan",30155,5784,"Sedang",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sanden",2011,"PNPM Perkotaan",30155,5784,"Sedang",720,180
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sanden",2012,"PNPM Perkotaan",30155,5784,"Sedang",712.5,37.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sanden",2013,"PNPM Perkotaan",30155,5784,"Sedang",760,40
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2008,"PNPM Perkotaan",44732,8300,"Sedang",875,375
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2009,"PNPM Perkotaan",44732,8300,"Sedang",688,172
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2010,"PNPM Perkotaan",44732,8300,"Sedang",920,220
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2011,"PNPM Perkotaan",44732,8300,"Sedang",665,160
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2012,"PNPM Perkotaan",44732,8300,"Sedang",712.5,37.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sedayu",2013,"PNPM Perkotaan",44732,8300,"Sedang",1187.5,62.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sewon",2009,"PNPM Perkotaan",105081,9966,"Tidak Miskin",1120,280
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sewon",2010,"PNPM Perkotaan",105081,9966,"Tidak Miskin",920,230
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sewon",2011,"PNPM Perkotaan",105081,9966,"Tidak Miskin",800,200
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sewon",2012,"PNPM Perkotaan",105081,9966,"Tidak Miskin",807.5,42.5
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Sewon",2013,"PNPM Perkotaan",105081,9966,"Tidak Miskin",855,45
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2008,"PNPM Perkotaan",28848,5081,"Sedang",490,210
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2009,"PNPM Perkotaan",28848,5081,"Sedang",464,116
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2010,"PNPM Perkotaan",28848,5081,"Sedang",480,110
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2011,"PNPM Perkotaan",28848,5081,"Sedang",265,60
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2012,"PNPM Perkotaan",28848,5081,"Sedang",475,25
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul","Srandakan",2013,"PNPM Perkotaan",28848,5081,"Sedang",665,35
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Gedang Sari",2012,"PNPM Perdesaan",35525,13848,"Miskin",2850,150
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Girisubo",2010,"PNPM Perdesaan",22074,7458,"Miskin",1200,300
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Girisubo",2012,"PNPM Perdesaan",22074,7458,"Miskin",855,45
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Karangmojo",2008,"PNPM Perdesaan",48709,11390,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Karangmojo",2009,"PNPM Perdesaan",48709,11390,"Sedang",200,
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Karangmojo",2012,"PNPM Perdesaan",48709,11390,"Sedang",997.5,52.5
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Ngawen",2010,"PNPM Perdesaan",31557,12525,"Miskin",1200,300
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Paliyan",2008,"PNPM Perdesaan",29141,6197,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Panggang",2008,"PNPM Perdesaan",26583,9916,"Miskin",200,800
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Patuk",2010,"PNPM Perdesaan",30415,8639,"Miskin",1200,300
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Playen",2008,"PNPM Perdesaan",55043,12090,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Ponjong",2008,"PNPM Perdesaan",49897,11381,"Sedang",200,800
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Rongkop",2012,"PNPM Perdesaan",26975,5535,"Sedang",2850,150
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Tepus",2010,"PNPM Perdesaan",31996,5732,"Sedang",1200,300
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Wonosari",2009,"PNPM Perdesaan",78815,8752,"Tidak Miskin",1600,400
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul","Wonosari",2010,"PNPM Perdesaan",78815,8752,"Tidak Miskin",2000,500
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Berbah",2009,"PNPM Perkotaan",51632,6234,"Sedang",616,154
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Berbah",2010,"PNPM Perkotaan",51632,6234,"Sedang",520,130
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Berbah",2011,"PNPM Perkotaan",51632,6234,"Sedang",480,120
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Berbah",2012,"PNPM Perkotaan",51632,6234,"Sedang",959.5,50.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Berbah",2013,"PNPM Perkotaan",51632,6234,"Sedang",926.25,48.75
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Cangkringan",2011,"PNPM Pasca Bencana",27883,5728,"Sedang",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Cangkringan",2012,"PNPM Perdesaan",27883,5728,"Sedang",570,30
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Cangkringan",2012,"PNPM Pasca Bencana",27883,5728,"Sedang",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2008,"PNPM Perkotaan",182510,4370,"Tidak Miskin",735,315
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2009,"PNPM Perkotaan",182510,4370,"Tidak Miskin",564,141
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2010,"PNPM Perkotaan",182510,4370,"Tidak Miskin",480,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2011,"PNPM Perkotaan",182510,4370,"Tidak Miskin",130,20
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2012,"PNPM Perkotaan",182510,4370,"Tidak Miskin",475,25
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Depok",2013,"PNPM Perkotaan",182510,4370,"Tidak Miskin",237.5,12.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Gamping",2008,"PNPM Perkotaan",97426,8664,"Tidak Miskin",1225,525
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Gamping",2009,"PNPM Perkotaan",97426,8664,"Tidak Miskin",920,230
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Gamping",2010,"PNPM Perkotaan",97426,8664,"Tidak Miskin",1000,200
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Gamping",2011,"PNPM Perkotaan",97426,8664,"Tidak Miskin",280,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Gamping",2012,"PNPM Perkotaan",97426,8664,"Tidak Miskin",1045,55
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Godean",2008,"PNPM Perkotaan",66514,7643,"Tidak Miskin",1085,465
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Godean",2009,"PNPM Perkotaan",66514,7643,"Tidak Miskin",920,230
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Godean",2010,"PNPM Perkotaan",66514,7643,"Tidak Miskin",1120,240
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Godean",2011,"PNPM Perkotaan",66514,7643,"Tidak Miskin",545,60
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Godean",2013,"PNPM Perkotaan",66514,7643,"Tidak Miskin",1235,65
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2008,"PNPM Perkotaan",76974,6381,"Tidak Miskin",980,420
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2009,"PNPM Perkotaan",76974,6381,"Tidak Miskin",760,190
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2010,"PNPM Perkotaan",76974,6381,"Tidak Miskin",760,170
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2011,"PNPM Perkotaan",76974,6381,"Tidak Miskin",410,80
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2012,"PNPM Perkotaan",76974,6381,"Tidak Miskin",902.5,47.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Kalasan",2013,"PNPM Perkotaan",76974,6381,"Tidak Miskin",831.25,43.75
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2008,"PNPM Perkotaan",29330,5499,"Sedang",700,300
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2009,"PNPM Perkotaan",29330,5499,"Sedang",560,140
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2010,"PNPM Perkotaan",29330,5499,"Sedang",640,160
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2011,"PNPM Perkotaan",29330,5499,"Sedang",640,160
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2012,"PNPM Perkotaan",29330,5499,"Sedang",1045,55
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Minggir",2013,"PNPM Perkotaan",29330,5499,"Sedang",831.25,43.75
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Mlati",2009,"PNPM Perkotaan",94874,7081,"Tidak Miskin",888,222
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Mlati",2010,"PNPM Perkotaan",94874,7081,"Tidak Miskin",910,200
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Mlati",2011,"PNPM Perkotaan",94874,7081,"Tidak Miskin",435,80
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Mlati",2012,"PNPM Perkotaan",94874,7081,"Tidak Miskin",1007,53
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Mlati",2013,"PNPM Perkotaan",94874,7081,"Tidak Miskin",1021.25,53.75
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2007,"PNPM Perkotaan",31065,4656,"Sedang",1250,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2008,"PNPM Perkotaan",31065,4656,"Sedang",665,405
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2009,"PNPM Perkotaan",31065,4656,"Sedang",664,166
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2010,"PNPM Perkotaan",31065,4656,"Sedang",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2011,"PNPM Perkotaan",31065,4656,"Sedang",100,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Moyudan",2012,"PNPM Perkotaan",31065,4656,"Sedang",650.75,34.25
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2008,"PNPM Perkotaan",98949,5908,"Tidak Miskin",1125,965
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2009,"PNPM Perkotaan",98949,5908,"Tidak Miskin",1272,318
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2010,"PNPM Perkotaan",98949,5908,"Tidak Miskin",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2011,"PNPM Perkotaan",98949,5908,"Tidak Miskin",220,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2012,"PNPM Perkotaan",98949,5908,"Tidak Miskin",627,33
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngaglik",2013,"PNPM Perkotaan",98949,5908,"Tidak Miskin",807.5,42.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2007,"PNPM Perkotaan",59591,3244,"Tidak Miskin",1600,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2008,"PNPM Perkotaan",59591,3244,"Tidak Miskin",1110,210
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2009,"PNPM Perkotaan",59591,3244,"Tidak Miskin",888,222
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2011,"PNPM Perkotaan",59591,3244,"Tidak Miskin",195,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2012,"PNPM Perkotaan",59591,3244,"Tidak Miskin",617.5,32.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Ngemplak",2013,"PNPM Perkotaan",59591,3244,"Tidak Miskin",475,25
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2007,"PNPM Perkotaan",34623,3386,"Tidak Miskin",600,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2008,"PNPM Perkotaan",34623,3386,"Tidak Miskin",330,150
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2009,"PNPM Perkotaan",34623,3386,"Tidak Miskin",608,152
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2010,"PNPM Perkotaan",34623,3386,"Tidak Miskin",600,120
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2011,"PNPM Perkotaan",34623,3386,"Tidak Miskin",290,60
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Pakem",2013,"PNPM Perkotaan",34623,3386,"Tidak Miskin",593.75,31.25
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Prambanan",2009,"PNPM Perdesaan",47229,8760,"Sedang",1600,400
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Prambanan",2011,"PNPM Perdesaan",47229,8760,"Sedang",360,90
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Prambanan",2012,"PNPM Perdesaan",47229,8760,"Sedang",665,35
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Seyegan",2008,"PNPM Perkotaan",45525,10650,"Sedang",805,345
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Seyegan",2009,"PNPM Perkotaan",45525,10650,"Sedang",692,173
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Seyegan",2010,"PNPM Perkotaan",45525,10650,"Sedang",810,180
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Seyegan",2011,"PNPM Perkotaan",45525,10650,"Sedang",495,80
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Seyegan",2013,"PNPM Perkotaan",45525,10650,"Sedang",1092.5,57.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2007,"PNPM Perkotaan",64845,9385,"Sedang",500,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2008,"PNPM Perkotaan",64845,9385,"Sedang",380,60
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2009,"PNPM Perkotaan",64845,9385,"Sedang",960,240
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2010,"PNPM Perkotaan",64845,9385,"Sedang",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2011,"PNPM Perkotaan",64845,9385,"Sedang",490,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Sleman",2013,"PNPM Perkotaan",64845,9385,"Sedang",1258.75,66.25
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2008,"PNPM Perkotaan",51930,8586,"Sedang",1240,120
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2009,"PNPM Perkotaan",51930,8586,"Sedang",1152,288
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2010,"PNPM Perkotaan",51930,8586,"Sedang",,
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2011,"PNPM Perkotaan",51930,8586,"Sedang",515,60
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2012,"PNPM Perkotaan",51930,8586,"Sedang",1529.5,80.5
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Tempel",2013,"PNPM Perkotaan",51930,8586,"Sedang",1401.25,73.75
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Turi",2009,"PNPM Perkotaan",33318,5910,"Sedang",464,116
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Turi",2011,"PNPM Perkotaan",33318,5910,"Sedang",265,60
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman","Turi",2013,"PNPM Perkotaan",33318,5910,"Sedang",760,40
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Danurejan",2009,"PNPM Perkotaan",18501,2194,"Tidak Miskin",448,112
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Danurejan",2011,"PNPM Perkotaan",18501,2194,"Tidak Miskin",165,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Danurejan",2012,"PNPM Perkotaan",18501,2194,"Tidak Miskin",405,15
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Danurejan",2013,"PNPM Perkotaan",18501,2194,"Tidak Miskin",451.25,23.75
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gedong Tengen",2009,"PNPM Perkotaan",16890,2479,"Sedang",464,116
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gedong Tengen",2011,"PNPM Perkotaan",16890,2479,"Sedang",50,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gedong Tengen",2012,"PNPM Perkotaan",16890,2479,"Sedang",332.5,17.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gedong Tengen",2013,"PNPM Perkotaan",16890,2479,"Sedang",403.75,21.25
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondokusuman",2009,"PNPM Perkotaan",45832,1990,"Tidak Miskin",1280,320
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondokusuman",2010,"PNPM Perkotaan",45832,1990,"Tidak Miskin",760,190
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondokusuman",2011,"PNPM Perkotaan",45832,1990,"Tidak Miskin",285,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondokusuman",2012,"PNPM Perkotaan",45832,1990,"Tidak Miskin",427.5,22.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondokusuman",2013,"PNPM Perkotaan",45832,1990,"Tidak Miskin",356.25,18.75
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondomanan",2009,"PNPM Perkotaan",13069,1699,"Sedang",240,60
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondomanan",2010,"PNPM Perkotaan",13069,1699,"Sedang",280,70
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondomanan",2011,"PNPM Perkotaan",13069,1699,"Sedang",50,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondomanan",2012,"PNPM Perkotaan",13069,1699,"Sedang",190,10
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Gondomanan",2013,"PNPM Perkotaan",13069,1699,"Sedang",261.25,13.75
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Jetis",2009,"PNPM Perkotaan",23371,1937,"Tidak Miskin",840,210
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Jetis",2010,"PNPM Perkotaan",23371,1937,"Tidak Miskin",480,120
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Jetis",2011,"PNPM Perkotaan",23371,1937,"Tidak Miskin",75,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Jetis",2012,"PNPM Perkotaan",23371,1937,"Tidak Miskin",285,15
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Jetis",2013,"PNPM Perkotaan",23371,1937,"Tidak Miskin",451.25,23.75
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kotagede",2009,"PNPM Perkotaan",32421,2449,"Tidak Miskin",720,180
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kotagede",2010,"PNPM Perkotaan",32421,2449,"Tidak Miskin",520,130
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kotagede",2011,"PNPM Perkotaan",32421,2449,"Tidak Miskin",560,120
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kotagede",2012,"PNPM Perkotaan",32421,2449,"Tidak Miskin",775,25
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kotagede",2013,"PNPM Perkotaan",32421,2449,"Tidak Miskin",213.75,11.25
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kraton",2009,"PNPM Perkotaan",17605,1490,"Tidak Miskin",600,150
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kraton",2010,"PNPM Perkotaan",17605,1490,"Tidak Miskin",200,50
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kraton",2011,"PNPM Perkotaan",17605,1490,"Tidak Miskin",330,50
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kraton",2012,"PNPM Perkotaan",17605,1490,"Tidak Miskin",387.5,12.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Kraton",2013,"PNPM Perkotaan",17605,1490,"Tidak Miskin",332.5,17.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mantrijeron",2009,"PNPM Perkotaan",31439,2833,"Tidak Miskin",648,162
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mantrijeron",2010,"PNPM Perkotaan",31439,2833,"Tidak Miskin",,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mantrijeron",2011,"PNPM Perkotaan",31439,2833,"Tidak Miskin",135,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mantrijeron",2012,"PNPM Perkotaan",31439,2833,"Tidak Miskin",345,15
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mantrijeron",2013,"PNPM Perkotaan",31439,2833,"Tidak Miskin",475,25
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mergangsan",2009,"PNPM Perkotaan",29521,2852,"Tidak Miskin",840,210
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mergangsan",2010,"PNPM Perkotaan",29521,2852,"Tidak Miskin",480,120
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mergangsan",2011,"PNPM Perkotaan",29521,2852,"Tidak Miskin",185,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mergangsan",2012,"PNPM Perkotaan",29521,2852,"Tidak Miskin",427.5,22.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Mergangsan",2013,"PNPM Perkotaan",29521,2852,"Tidak Miskin",332.5,17.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Ngampilan",2009,"PNPM Perkotaan",16456,1249,"Tidak Miskin",344,86
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Ngampilan",2010,"PNPM Perkotaan",16456,1249,"Tidak Miskin",,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Ngampilan",2011,"PNPM Perkotaan",16456,1249,"Tidak Miskin",50,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Ngampilan",2012,"PNPM Perkotaan",16456,1249,"Tidak Miskin",250,10
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Ngampilan",2013,"PNPM Perkotaan",16456,1249,"Tidak Miskin",142.5,7.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Pakualaman",2009,"PNPM Perkotaan",9460,676,"Tidak Miskin",120,30
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Pakualaman",2010,"PNPM Perkotaan",9460,676,"Tidak Miskin",240,60
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Pakualaman",2011,"PNPM Perkotaan",9460,676,"Tidak Miskin",50,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Pakualaman",2012,"PNPM Perkotaan",9460,676,"Tidak Miskin",190,10
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Pakualaman",2013,"PNPM Perkotaan",9460,676,"Tidak Miskin",142.5,7.5
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Tegalrejo",2009,"PNPM Perkotaan",35127,3194,"Tidak Miskin",624,156
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Tegalrejo",2011,"PNPM Perkotaan",35127,3194,"Tidak Miskin",100,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Tegalrejo",2012,"PNPM Perkotaan",35127,3194,"Tidak Miskin",570,30
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Tegalrejo",2013,"PNPM Perkotaan",35127,3194,"Tidak Miskin",665,35
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Umbulharjo",2009,"PNPM Perkotaan",76418,4302,"Tidak Miskin",1496,374
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Umbulharjo",2010,"PNPM Perkotaan",76418,4302,"Tidak Miskin",,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Umbulharjo",2011,"PNPM Perkotaan",76418,4302,"Tidak Miskin",465,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Umbulharjo",2012,"PNPM Perkotaan",76418,4302,"Tidak Miskin",905,35
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Umbulharjo",2013,"PNPM Perkotaan",76418,4302,"Tidak Miskin",498.75,26.25
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Wirobrajan",2009,"PNPM Perkotaan",26970,2559,"Tidak Miskin",528,132
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Wirobrajan",2010,"PNPM Perkotaan",26970,2559,"Tidak Miskin",,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Wirobrajan",2011,"PNPM Perkotaan",26970,2559,"Tidak Miskin",75,
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Wirobrajan",2012,"PNPM Perkotaan",26970,2559,"Tidak Miskin",345,15
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta","Wirobrajan",2013,"PNPM Perkotaan",26970,2559,"Tidak Miskin",475,25
